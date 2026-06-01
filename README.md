@@ -11,4 +11,4 @@ O aplicativo possui checkboxes para mostrar e esconder os seguintes gráficos:
 Dessa forma, vendedores e compradores poderão clicar na caixa de seleção desejada e visualizar o gráfico de seu interesse.
 
 ## Aceder ao aplicativo
-[Link do aplicativo](URL_DO_RENDER_AQUI) # car-sales-ads
+https://car-sales-ads-ic3d.onrender.com 
